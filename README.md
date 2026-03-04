@@ -1,6 +1,12 @@
 # 📧 Spam Email Classifier
 ### Production-Level NLP Project | Python + Scikit-learn + Streamlit
 
+**💻 Live Demo:** [Click here to try the app online](https://email-spam-detection-6buvueq6rcqp2xjtp7o2uo.streamlit.app)
+
+
+# 📧 Spam Email Classifier
+### Production-Level NLP Project | Python + Scikit-learn + Streamlit
+
 ---
 
 ## 🗂️ Project Structure

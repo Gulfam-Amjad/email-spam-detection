@@ -399,7 +399,7 @@ with tab1:
                     - Decision Threshold: `{threshold}%`
                     """)
 
-            # --- Spam Keywords ---
+            # --- Spam Keywords ----
             if show_keywords:
                 with st.expander("🔑 Top Spam Indicator Keywords (Model Learned)"):
                     keywords = get_spam_keywords(top_n=20)
